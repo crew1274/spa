@@ -1,0 +1,254 @@
+{
+  "id": "1487958",
+  "name": "IoT",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "754293",
+      "name": "冻结",
+      "font_class": "cf-c09",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "924716",
+      "name": "提醒",
+      "font_class": "tixing",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1071107",
+      "name": "多选框",
+      "font_class": "duoxuankuang",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "1228393",
+      "name": "多选框",
+      "font_class": "checkbox_true_part_focus",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1677025",
+      "name": "值班",
+      "font_class": "zhiban",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1791456",
+      "name": "ppm水滴",
+      "font_class": "shuidi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1998304",
+      "name": "系统设置",
+      "font_class": "-",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "3171653",
+      "name": "密码重置",
+      "font_class": "mimazhongzhi",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "3673761",
+      "name": "空气质量",
+      "font_class": "kongqizhiliang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3738720",
+      "name": "废水",
+      "font_class": "feishui",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4229383",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "4243049",
+      "name": "规则列表",
+      "font_class": "guizeliebiao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4441887",
+      "name": "操作",
+      "font_class": "caozuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4480523",
+      "name": "电力",
+      "font_class": "dianli",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "5308432",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5329804",
+      "name": "上传 (1)",
+      "font_class": "shangchuan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5397118",
+      "name": "单选框 选中",
+      "font_class": "danxuankuangxuanzhong",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "6608615",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "7058237",
+      "name": "解冻",
+      "font_class": "jiedong",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "7188950",
+      "name": "scanner-命中率",
+      "font_class": "mingzhongshuai",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "7575633",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "7708023",
+      "name": "眼睛_开",
+      "font_class": "yanjing_kai",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7774529",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8224812",
+      "name": "眼睛_闭",
+      "font_class": "yanjing_bi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8283151",
+      "name": "进程表",
+      "font_class": "course",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8394276",
+      "name": "下  拉",
+      "font_class": "xiala",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8409734",
+      "name": "二氧化碳",
+      "font_class": "eryanghuatan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "8836058",
+      "name": "温度",
+      "font_class": "wendu1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9230910",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10111029",
+      "name": "数据 分析(1)",
+      "font_class": "shujufenxi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "10143467",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "10156658",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "10464384",
+      "name": "单选框 选中",
+      "font_class": "perIinfo-radio",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11044457",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12346805",
+      "name": "PM 2.5",
+      "font_class": "PM",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}

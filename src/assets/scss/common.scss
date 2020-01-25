@@ -1,0 +1,153 @@
+$bColor: #10698d;
+$bdColor: #355396;
+$blue: #182b5c;
+$bg-blue: rgba(4, 70, 163, 0.8);
+$blue-light: #0251a2;
+$h-input: 40px;
+$input-fontSize: 14px;
+$w-dialog: 700px;
+$w-weapon-dialog:800px;
+$h-dialog: auto;
+$main-width: 80%;
+$main-min-width: 1200px;
+$clinear: linear-gradient(to left, #15276b 0%, #0d257f 50%, #091240 100%);
+$bgLinear: linear-gradient(to bottom, #060837 0%,#060a5e 25%, #020774 50%,#060a5e 75%, #060837 100%);
+
+.condition-wrap,.condition-option{
+    width:100%;
+    height:20%;
+    background-color: rgba(6,98,211,0.2);
+    padding:20px;
+    margin-bottom:10px;
+    border: 1px solid #404958;
+    text-align:left;
+    color:#fff;
+    .el-form-item__label,.el-range-separator{
+      color:#fff;
+    }
+    .el-input__inner,.el-range-input{
+      background-color:rgba(0,0,0,0);
+    }
+    .el-input__inner,.el-radio{
+      color:#fff;
+  }
+}
+.content-wrap{
+    width:100%;
+    min-height:70%;
+    margin-top:30px;
+    background-color: transparent;
+    .el-table th, .el-table tr{
+      background-color: rgba(6,98,211,0.2);
+    }
+    .el-table,.el-table__expanded-cell{
+      background: transparent;
+      color:#fff;
+    }
+    .el-table__expanded-cell .el-table th.is-leaf{
+      border:none;
+    }
+    .el-table::before{
+      height: 0;
+    }
+    .el-table th.is-leaf
+    {
+      border-bottom:4px solid #141f31;
+    }
+    .el-table td{
+      border-bottom:none;
+    }
+    .el-table--enable-row-hover .el-table__body tr:hover > td {
+      background-color: rgba(6,98,211,0.2);
+    }
+    .el-checkbox__inner{
+      background-color:transparent;
+    }
+    .el-table{
+      // padding-bottom:200px;
+    }
+}
+.flag {
+  display: block;
+  border-left: 4px solid #0ff;
+  color: #0ff;
+  padding-left: 10px;
+  margin: 10px 0;
+} 
+.index_content{
+  margin:60px 150px;
+}
+/*清除浮动样式*/
+.clearfix{*zoom:1;}
+.clearfix:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+.fl{
+  float: left !important;
+}
+.fr{
+  float: right !important;
+}
+.new{
+    background-color:#5bc0de;
+    border-color:#5bc0de;
+}
+.del{
+    background-color: #e13838;
+    border-color:#e13838;
+}
+.export{
+    background-color: #f0811e;
+    border-color:#f0811e;
+}
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
+.pointer{
+  cursor: pointer;
+}
+.font24{
+  font-size: 24px;
+}
+.borderAngle {
+  width: 12px;
+  height: 14px;
+  border: 2px solid #00f6ff;
+  background-color: transparent;
+  position: absolute;
+  z-index:9;
+  $offset: -2px;
+  $offsetTop:-1px;
+  &.leftTopAngle {
+      left: $offset;
+      top: $offsetTop;
+      border-right: none;
+      border-bottom: none;
+  }
+  &.rightTopAngle {
+      right: $offset;
+      top: $offsetTop;
+      border-left: none;
+      border-bottom: none;
+  }
+  &.leftBottomAngle {
+      left: $offset;
+      bottom: $offsetTop;
+      border-right: none;
+      border-top: none;
+  }
+  &.rightBottomAngle {
+      right: $offset;
+      bottom: $offsetTop;
+      border-left: none;
+      border-top: none;
+  }
+}
