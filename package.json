@@ -13,7 +13,7 @@
     "echarts": "^4.3.0",
     "echarts-liquidfill": "^2.0.2",
     "element-ui": "^2.4.5",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "hmacsha1": "^1.0.0",
     "jquery": "^3.4.1",
     "js-md5": "^0.7.3",
